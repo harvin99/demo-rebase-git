@@ -8,3 +8,4 @@ export const demoFunc4 = () => {}
 
 export const demoFunc5 = () => {}
 
+export const demoFunc6 = () => {}
